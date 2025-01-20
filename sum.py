@@ -1,10 +1,7 @@
-a = input("please enter a number: ")
-b = input("please enter a another number: ")
+a = int(input("please enter a number: "))
+b = int(input("please enter a another number: "))
 
-a = int(a)
-b = int(b) 
+# a = int(a)
+# b = int(b) 
 
 print (a + b)
-print ("succesfully added")
-
-print (a*b)
