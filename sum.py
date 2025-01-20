@@ -6,3 +6,5 @@ b = int(b)
 
 print (a + b)
 print ("succesfully added")
+
+print (a*b)
